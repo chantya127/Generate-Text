@@ -9,8 +9,8 @@ at any rate, whether we expect another invasion or not, orate, whether we expect
 <b>The model can be improved by :- </b>
 <ol>
   <li>Increasing the input text corpus .</li>
-  <li>Training with more no. epochs</li>
-  <li>Increasing the LSTM layers / Adding more neurons</li>
+  <li>Training with more no. epochs.</li>
+  <li>Increasing the LSTM layers / Adding more neurons.</li>
   <li>Try with different temperatures that suit your requirement!</li>
   </ol>
   

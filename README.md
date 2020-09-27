@@ -15,6 +15,6 @@ Here I have tried to generate text ,on a war based ebook using recurrent neural 
   <li>Try with different temperatures that suit your requirement!</li>
   </ol>
   
-  <h3><u>Note :- </h3></u>You can feed any text (book)to the model ,Try experimenting with the model , But don't expect to generate text like a real writer!!
+  <h3><u>Note :- </h3></u>You can feed any text (book)to the model ,try experimenting with the model. But don't expect to generate  a text like a  writer!!
   
 
